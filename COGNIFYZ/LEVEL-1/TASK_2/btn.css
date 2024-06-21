@@ -1,0 +1,28 @@
+body {
+    background-color: goldenrod;
+     
+}
+.mybtn{
+    display: block;
+    align-items: center;
+}
+
+#btn {
+    height: 60px;
+    width: 120px;
+    border-radius: 2px;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+
+}
+
+#p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
